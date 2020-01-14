@@ -5,6 +5,4 @@ class Item
     @name = item_info[:name]
     @price = item_info[:price]
   end
-
-
 end
